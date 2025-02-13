@@ -63,7 +63,7 @@ classDiagram
 
 Link to auto-generated API docs for the library:
 
-[API Documentation](https://jsr.io/@flowscripter/template-bun-library/doc)
+[API Documentation](https://flowscripter.github.io/template-bun-library/index.html)
 
 ## License
 
