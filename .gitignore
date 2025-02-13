@@ -173,16 +173,4 @@ dist
 
 # Finder (MacOS) folder config
 .DS_Store
-docs/all_symbols.html
-docs/comrak.css
-docs/fuse.js
-docs/index.html
-docs/page.css
-docs/prism.css
-docs/prism.js
-docs/reset.css
-docs/script.js
-docs/search_index.js
-docs/search.js
-docs/styles.css
-docs/~/world.html
+docs/
