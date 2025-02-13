@@ -3,7 +3,7 @@
 [![version](https://img.shields.io/github/v/release/flowscripter/template-bun-library?sort=semver)](https://github.com/flowscripter/template-bun-library/releases)
 [![build](https://img.shields.io/github/actions/workflow/status/flowscripter/template-bun-library/release-bun-library.yml)](https://github.com/flowscripter/template-bun-library/actions/workflows/release-bun-library.yml)
 [![coverage](https://codecov.io/gh/flowscripter/template-bun-library/graph/badge.svg?token=uWK0oWsBjr)](https://codecov.io/gh/flowscripter/template-bun-library)
-[![doc](https://doc.deno.land/badge.svg)](https://jsr.io/@flowscripter/template-deno-library/doc)
+[![docs](https://img.shields.io/badge/docs-API-blue)](https://flowscripter.github.io/template-bun-library/index.html)
 [![license: MIT](https://img.shields.io/github/license/flowscripter/template-bun-library)](https://github.com/flowscripter/template-bun-library/blob/main/LICENSE)
 
 > Project template for a Bun library
@@ -30,15 +30,23 @@ world();
 
 ## Development
 
-Test: `bun test`
+Test: 
+
+`bun test`
 
 **NOTE**: The following tasks use Deno as it excels at these and Bun does not currently provide such functionality:
 
-Format: `deno fmt index.ts src/ tests`
+Format:
 
-Lint: `deno lint index.ts src/ tests/`
+`deno fmt index.ts src/ tests`
 
-Generate HTML API Documentation: `deno doc --html --name=template-bun-library index.ts`
+Lint:
+
+`deno lint index.ts src/ tests/`
+
+Generate HTML API Documentation:
+
+`deno doc --html --name=template-bun-library index.ts`
 
 ## Documentation
 
