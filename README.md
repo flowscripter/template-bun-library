@@ -61,7 +61,7 @@ classDiagram
 
 ### API
 
-Link to auto-generated API docs for the library:
+Link to auto-generated API docs:
 
 [API Documentation](https://flowscripter.github.io/template-bun-library/index.html)
 
