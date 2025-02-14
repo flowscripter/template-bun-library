@@ -23,7 +23,7 @@ Add the module:
 Use the module:
 
 ```typescript
-import { world } from "@flowscripter/template-deno-library";
+import { world } from "@flowscripter/template-bun-library";
 
 world();
 ```
@@ -61,9 +61,9 @@ classDiagram
 
 ### API
 
-Link to auto-generated API docs for the library:
+Link to auto-generated API docs:
 
-[API Documentation](https://jsr.io/@flowscripter/template-bun-library/doc)
+[API Documentation](https://flowscripter.github.io/template-bun-library/index.html)
 
 ## License
 
