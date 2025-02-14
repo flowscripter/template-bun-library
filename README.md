@@ -23,7 +23,7 @@ Add the module:
 Use the module:
 
 ```typescript
-import { world } from "@flowscripter/template-deno-library";
+import { world } from "@flowscripter/template-bun-library";
 
 world();
 ```
