@@ -38,7 +38,7 @@ Test:
 
 Format:
 
-`deno fmt index.ts src/ tests`
+`deno fmt`
 
 Lint:
 
