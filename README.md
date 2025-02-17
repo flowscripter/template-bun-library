@@ -30,15 +30,16 @@ world();
 
 ## Development
 
-Test: 
+Test:
 
 `bun test`
 
-**NOTE**: The following tasks use Deno as it excels at these and Bun does not currently provide such functionality:
+**NOTE**: The following tasks use Deno as it excels at these and Bun does not
+currently provide such functionality:
 
 Format:
 
-`deno fmt index.ts src/ tests`
+`deno fmt`
 
 Lint:
 
