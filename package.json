@@ -2,7 +2,7 @@
   "name": "@flowscripter/template-bun-library",
   "module": "index.ts",
   "type": "module",
-  "version": "1.0.7",
+  "version": "1.0.8",
   "publishConfig": {
     "access": "public"
   },
