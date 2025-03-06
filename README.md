@@ -30,6 +30,10 @@ world();
 
 ## Development
 
+Install dependencies:
+
+`bun install`
+
 Test:
 
 `bun test`
