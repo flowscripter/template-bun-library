@@ -1,7 +1,11 @@
 {
   "name": "@flowscripter/template-bun-library",
   "description": "Project template for a Bun library",
-  "repository": "@flowscripter/template-bun-library",
+  "homepage": "https://github.com/flowscripter/template-bun-library#readme",
+  "repository":{
+    "type": "git",
+    "url": "git+https://github.com/flowscripter/template-bun-library.git"
+  },
   "license": "MIT",
   "keywords": [
     "bun",
