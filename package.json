@@ -2,7 +2,7 @@
   "name": "@flowscripter/template-bun-library",
   "description": "Project template for a Bun library",
   "homepage": "https://github.com/flowscripter/template-bun-library#readme",
-  "repository":{
+  "repository": {
     "type": "git",
     "url": "git+https://github.com/flowscripter/template-bun-library.git"
   },
