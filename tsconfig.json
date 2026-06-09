@@ -26,5 +26,6 @@
 
     // Type definitions
     "types": ["bun", "node"]
-  }
+  },
+  "exclude": ["tests"]
 }
