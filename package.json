@@ -1,6 +1,6 @@
 {
   "name": "@flowscripter/template-bun-library",
-  "version": "1.2.18",
+  "version": "1.2.19",
   "description": "Project template for a Bun library",
   "keywords": [
     "bun",
