@@ -6,5 +6,5 @@ permissions:
   contents: read
 jobs:
   call-validate-bun-library-pr:
-    uses: flowscripter/.github/.github/workflows/validate-bun-library-pr.yml@v1
+    uses: flowscripter/.github/.github/workflows/validate-bun-library-pr.yml@ci/docs-only-gate
     secrets: inherit
