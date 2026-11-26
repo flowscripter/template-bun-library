@@ -32,3 +32,5 @@ bunx typedoc --readme none index.ts
 - `tests/world_test.ts` -- Bun test suite for the world module
 - `tsconfig.json` -- TypeScript configuration
 - `package.json` -- module metadata; `"module": "index.ts"` for Bun resolution
+
+This line was added to test the docs-only gate and can be removed.
